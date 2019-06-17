@@ -1,0 +1,7 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDataTypes\bin\Debug\ProjectForDataTypes.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDataTypes\bin\Debug\ProjectForDataTypes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDataTypes\bin\Debug\ProjectForDataTypes.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDataTypes\obj\Debug\ProjectForDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDataTypes\obj\Debug\ProjectForDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDataTypes\obj\Debug\ProjectForDataTypes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDataTypes\obj\Debug\ProjectForDataTypes.pdb

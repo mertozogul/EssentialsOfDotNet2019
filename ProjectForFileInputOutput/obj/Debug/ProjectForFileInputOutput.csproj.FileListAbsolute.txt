@@ -1,0 +1,7 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\bin\Debug\ProjectForFileInputOutput.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\bin\Debug\ProjectForFileInputOutput.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\bin\Debug\ProjectForFileInputOutput.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\obj\Debug\ProjectForFileInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\obj\Debug\ProjectForFileInputOutput.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\obj\Debug\ProjectForFileInputOutput.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\obj\Debug\ProjectForFileInputOutput.csprojResolveAssemblyReference.cache

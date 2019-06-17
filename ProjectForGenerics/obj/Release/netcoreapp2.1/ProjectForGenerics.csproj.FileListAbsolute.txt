@@ -1,0 +1,11 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\bin\Release\netcoreapp2.1\ProjectForGenerics.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\bin\Release\netcoreapp2.1\ProjectForGenerics.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\bin\Release\netcoreapp2.1\ProjectForGenerics.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\bin\Release\netcoreapp2.1\ProjectForGenerics.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\bin\Release\netcoreapp2.1\ProjectForGenerics.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\obj\Release\netcoreapp2.1\ProjectForGenerics.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\obj\Release\netcoreapp2.1\ProjectForGenerics.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\obj\Release\netcoreapp2.1\ProjectForGenerics.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\obj\Release\netcoreapp2.1\ProjectForGenerics.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\obj\Release\netcoreapp2.1\ProjectForGenerics.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForGenerics\obj\Release\netcoreapp2.1\ProjectForGenerics.csprojAssemblyReference.cache

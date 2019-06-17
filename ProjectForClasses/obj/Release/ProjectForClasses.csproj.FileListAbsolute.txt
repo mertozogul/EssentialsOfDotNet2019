@@ -1,0 +1,7 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\bin\Release\ProjectForClasses.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\bin\Release\ProjectForClasses.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\bin\Release\ProjectForClasses.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\obj\Release\ProjectForClasses.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\obj\Release\ProjectForClasses.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\obj\Release\ProjectForClasses.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\obj\Release\ProjectForClasses.pdb

@@ -1,0 +1,7 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\TutorialsPointProjectOOP\bin\Release\TutorialsPointProjectOOP.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\TutorialsPointProjectOOP\bin\Release\TutorialsPointProjectOOP.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\TutorialsPointProjectOOP\bin\Release\TutorialsPointProjectOOP.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\TutorialsPointProjectOOP\obj\Release\TutorialsPointProjectOOP.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\TutorialsPointProjectOOP\obj\Release\TutorialsPointProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\TutorialsPointProjectOOP\obj\Release\TutorialsPointProjectOOP.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\TutorialsPointProjectOOP\obj\Release\TutorialsPointProjectOOP.pdb

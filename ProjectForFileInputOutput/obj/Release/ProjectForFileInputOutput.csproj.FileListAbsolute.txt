@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\bin\Release\ProjectForFileInputOutput.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\bin\Release\ProjectForFileInputOutput.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\bin\Release\ProjectForFileInputOutput.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\obj\Release\ProjectForFileInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\obj\Release\ProjectForFileInputOutput.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForFileInputOutput\obj\Release\ProjectForFileInputOutput.pdb

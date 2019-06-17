@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForOperatorOverloading\bin\Debug\ProjectForOperatorOverloading.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForOperatorOverloading\bin\Debug\ProjectForOperatorOverloading.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForOperatorOverloading\bin\Debug\ProjectForOperatorOverloading.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForOperatorOverloading\obj\Debug\ProjectForOperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForOperatorOverloading\obj\Debug\ProjectForOperatorOverloading.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForOperatorOverloading\obj\Debug\ProjectForOperatorOverloading.pdb

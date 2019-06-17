@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForNamespaces\bin\Release\ProjectForNamespaces.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForNamespaces\bin\Release\ProjectForNamespaces.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForNamespaces\bin\Release\ProjectForNamespaces.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForNamespaces\obj\Release\ProjectForNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForNamespaces\obj\Release\ProjectForNamespaces.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForNamespaces\obj\Release\ProjectForNamespaces.pdb

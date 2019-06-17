@@ -1,0 +1,10 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\bin\Release\netcoreapp2.1\ProjectForEvents.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\bin\Release\netcoreapp2.1\ProjectForEvents.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\bin\Release\netcoreapp2.1\ProjectForEvents.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\bin\Release\netcoreapp2.1\ProjectForEvents.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\bin\Release\netcoreapp2.1\ProjectForEvents.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\obj\Release\netcoreapp2.1\ProjectForEvents.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\obj\Release\netcoreapp2.1\ProjectForEvents.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\obj\Release\netcoreapp2.1\ProjectForEvents.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\obj\Release\netcoreapp2.1\ProjectForEvents.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEvents\obj\Release\netcoreapp2.1\ProjectForEvents.pdb

@@ -1,0 +1,10 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\bin\Release\netcoreapp2.1\ProjectForReflection.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\bin\Release\netcoreapp2.1\ProjectForReflection.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\bin\Release\netcoreapp2.1\ProjectForReflection.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\bin\Release\netcoreapp2.1\ProjectForReflection.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\bin\Release\netcoreapp2.1\ProjectForReflection.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\obj\Release\netcoreapp2.1\ProjectForReflection.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\obj\Release\netcoreapp2.1\ProjectForReflection.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\obj\Release\netcoreapp2.1\ProjectForReflection.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\obj\Release\netcoreapp2.1\ProjectForReflection.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForReflection\obj\Release\netcoreapp2.1\ProjectForReflection.pdb

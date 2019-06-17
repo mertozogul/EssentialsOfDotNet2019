@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPolymorphism\bin\Debug\ProjectForPolymorphism.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPolymorphism\bin\Debug\ProjectForPolymorphism.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPolymorphism\bin\Debug\ProjectForPolymorphism.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPolymorphism\obj\Debug\ProjectForPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPolymorphism\obj\Debug\ProjectForPolymorphism.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPolymorphism\obj\Debug\ProjectForPolymorphism.pdb

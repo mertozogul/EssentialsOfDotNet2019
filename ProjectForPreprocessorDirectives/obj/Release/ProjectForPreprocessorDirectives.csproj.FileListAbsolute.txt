@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPreprocessorDirectives\bin\Release\ProjectForPreprocessorDirectives.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPreprocessorDirectives\bin\Release\ProjectForPreprocessorDirectives.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPreprocessorDirectives\bin\Release\ProjectForPreprocessorDirectives.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPreprocessorDirectives\obj\Release\ProjectForPreprocessorDirectives.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPreprocessorDirectives\obj\Release\ProjectForPreprocessorDirectives.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPreprocessorDirectives\obj\Release\ProjectForPreprocessorDirectives.pdb

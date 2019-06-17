@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPartialClasses\bin\Release\ProjectForPartialClasses.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPartialClasses\bin\Release\ProjectForPartialClasses.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPartialClasses\bin\Release\ProjectForPartialClasses.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPartialClasses\obj\Release\ProjectForPartialClasses.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPartialClasses\obj\Release\ProjectForPartialClasses.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForPartialClasses\obj\Release\ProjectForPartialClasses.pdb

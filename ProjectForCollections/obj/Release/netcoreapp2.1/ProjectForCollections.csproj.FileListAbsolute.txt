@@ -1,0 +1,10 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\bin\Release\netcoreapp2.1\ProjectForCollections.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\bin\Release\netcoreapp2.1\ProjectForCollections.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\bin\Release\netcoreapp2.1\ProjectForCollections.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\bin\Release\netcoreapp2.1\ProjectForCollections.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\bin\Release\netcoreapp2.1\ProjectForCollections.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\obj\Release\netcoreapp2.1\ProjectForCollections.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\obj\Release\netcoreapp2.1\ProjectForCollections.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\obj\Release\netcoreapp2.1\ProjectForCollections.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\obj\Release\netcoreapp2.1\ProjectForCollections.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForCollections\obj\Release\netcoreapp2.1\ProjectForCollections.pdb

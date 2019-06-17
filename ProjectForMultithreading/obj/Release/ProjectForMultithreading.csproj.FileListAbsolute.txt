@@ -1,0 +1,7 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForMultithreading\bin\Release\ProjectForMultithreading.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForMultithreading\bin\Release\ProjectForMultithreading.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForMultithreading\bin\Release\ProjectForMultithreading.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForMultithreading\obj\Release\ProjectForMultithreading.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForMultithreading\obj\Release\ProjectForMultithreading.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForMultithreading\obj\Release\ProjectForMultithreading.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForMultithreading\obj\Release\ProjectForMultithreading.pdb

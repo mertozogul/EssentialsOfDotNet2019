@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\bin\Debug\ProjectForClasses.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\bin\Debug\ProjectForClasses.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\bin\Debug\ProjectForClasses.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\obj\Debug\ProjectForClasses.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\obj\Debug\ProjectForClasses.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForClasses\obj\Debug\ProjectForClasses.pdb

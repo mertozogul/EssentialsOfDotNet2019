@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForRegularExpressions\bin\Release\ProjectForRegularExpressions.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForRegularExpressions\bin\Release\ProjectForRegularExpressions.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForRegularExpressions\bin\Release\ProjectForRegularExpressions.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForRegularExpressions\obj\Release\ProjectForRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForRegularExpressions\obj\Release\ProjectForRegularExpressions.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForRegularExpressions\obj\Release\ProjectForRegularExpressions.pdb

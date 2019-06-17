@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\bin\Release\ProjectForAttributes.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\bin\Release\ProjectForAttributes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\bin\Release\ProjectForAttributes.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\obj\Release\ProjectForAttributes.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\obj\Release\ProjectForAttributes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\obj\Release\ProjectForAttributes.pdb

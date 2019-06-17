@@ -1,0 +1,10 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\bin\Release\netcoreapp2.1\ProjectForIndexers.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\bin\Release\netcoreapp2.1\ProjectForIndexers.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\bin\Release\netcoreapp2.1\ProjectForIndexers.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\bin\Release\netcoreapp2.1\ProjectForIndexers.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\bin\Release\netcoreapp2.1\ProjectForIndexers.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\obj\Release\netcoreapp2.1\ProjectForIndexers.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\obj\Release\netcoreapp2.1\ProjectForIndexers.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\obj\Release\netcoreapp2.1\ProjectForIndexers.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\obj\Release\netcoreapp2.1\ProjectForIndexers.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForIndexers\obj\Release\netcoreapp2.1\ProjectForIndexers.pdb

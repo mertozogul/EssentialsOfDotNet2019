@@ -1,0 +1,11 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\bin\Release\netcoreapp2.1\ProjectForUnsafeCodes.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\bin\Release\netcoreapp2.1\ProjectForUnsafeCodes.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\bin\Release\netcoreapp2.1\ProjectForUnsafeCodes.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\bin\Release\netcoreapp2.1\ProjectForUnsafeCodes.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\bin\Release\netcoreapp2.1\ProjectForUnsafeCodes.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\obj\Release\netcoreapp2.1\ProjectForUnsafeCodes.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\obj\Release\netcoreapp2.1\ProjectForUnsafeCodes.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\obj\Release\netcoreapp2.1\ProjectForUnsafeCodes.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\obj\Release\netcoreapp2.1\ProjectForUnsafeCodes.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\obj\Release\netcoreapp2.1\ProjectForUnsafeCodes.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForUnsafeCodes\obj\Release\netcoreapp2.1\ProjectForUnsafeCodes.csprojAssemblyReference.cache

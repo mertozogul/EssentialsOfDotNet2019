@@ -1,0 +1,11 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\bin\Release\netcoreapp2.1\ProjectForProperties.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\bin\Release\netcoreapp2.1\ProjectForProperties.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\bin\Release\netcoreapp2.1\ProjectForProperties.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\bin\Release\netcoreapp2.1\ProjectForProperties.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\bin\Release\netcoreapp2.1\ProjectForProperties.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\obj\Release\netcoreapp2.1\ProjectForProperties.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\obj\Release\netcoreapp2.1\ProjectForProperties.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\obj\Release\netcoreapp2.1\ProjectForProperties.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\obj\Release\netcoreapp2.1\ProjectForProperties.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\obj\Release\netcoreapp2.1\ProjectForProperties.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForProperties\obj\Release\netcoreapp2.1\ProjectForProperties.pdb

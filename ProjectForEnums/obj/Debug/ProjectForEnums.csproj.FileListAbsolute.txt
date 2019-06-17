@@ -1,0 +1,7 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEnums\bin\Debug\ProjectForEnums.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEnums\bin\Debug\ProjectForEnums.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEnums\bin\Debug\ProjectForEnums.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEnums\obj\Debug\ProjectForEnums.csprojResolveAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEnums\obj\Debug\ProjectForEnums.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEnums\obj\Debug\ProjectForEnums.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForEnums\obj\Debug\ProjectForEnums.pdb

@@ -1,0 +1,11 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\bin\Release\netcoreapp2.1\ProjectForDelegates.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\bin\Release\netcoreapp2.1\ProjectForDelegates.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\bin\Release\netcoreapp2.1\ProjectForDelegates.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\bin\Release\netcoreapp2.1\ProjectForDelegates.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\bin\Release\netcoreapp2.1\ProjectForDelegates.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\obj\Release\netcoreapp2.1\ProjectForDelegates.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\obj\Release\netcoreapp2.1\ProjectForDelegates.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\obj\Release\netcoreapp2.1\ProjectForDelegates.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\obj\Release\netcoreapp2.1\ProjectForDelegates.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\obj\Release\netcoreapp2.1\ProjectForDelegates.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForDelegates\obj\Release\netcoreapp2.1\ProjectForDelegates.pdb

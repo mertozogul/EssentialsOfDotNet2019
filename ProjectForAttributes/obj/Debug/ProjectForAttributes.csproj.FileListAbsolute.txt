@@ -1,0 +1,7 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\bin\Debug\ProjectForAttributes.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\bin\Debug\ProjectForAttributes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\bin\Debug\ProjectForAttributes.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\obj\Debug\ProjectForAttributes.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\obj\Debug\ProjectForAttributes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\obj\Debug\ProjectForAttributes.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAttributes\obj\Debug\ProjectForAttributes.csprojAssemblyReference.cache

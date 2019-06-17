@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForExceptionHandling\bin\Release\ProjectForExceptionHandling.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForExceptionHandling\bin\Release\ProjectForExceptionHandling.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForExceptionHandling\bin\Release\ProjectForExceptionHandling.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForExceptionHandling\obj\Release\ProjectForExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForExceptionHandling\obj\Release\ProjectForExceptionHandling.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForExceptionHandling\obj\Release\ProjectForExceptionHandling.pdb

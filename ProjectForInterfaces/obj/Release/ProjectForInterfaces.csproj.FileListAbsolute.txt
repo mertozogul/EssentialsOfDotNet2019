@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInterfaces\bin\Release\ProjectForInterfaces.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInterfaces\bin\Release\ProjectForInterfaces.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInterfaces\bin\Release\ProjectForInterfaces.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInterfaces\obj\Release\ProjectForInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInterfaces\obj\Release\ProjectForInterfaces.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInterfaces\obj\Release\ProjectForInterfaces.pdb

@@ -1,0 +1,11 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\bin\Release\netcoreapp2.1\ProjectForAnonymousMethods.deps.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\bin\Release\netcoreapp2.1\ProjectForAnonymousMethods.runtimeconfig.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\bin\Release\netcoreapp2.1\ProjectForAnonymousMethods.runtimeconfig.dev.json
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\bin\Release\netcoreapp2.1\ProjectForAnonymousMethods.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\bin\Release\netcoreapp2.1\ProjectForAnonymousMethods.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\obj\Release\netcoreapp2.1\ProjectForAnonymousMethods.csprojAssemblyReference.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\obj\Release\netcoreapp2.1\ProjectForAnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\obj\Release\netcoreapp2.1\ProjectForAnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\obj\Release\netcoreapp2.1\ProjectForAnonymousMethods.AssemblyInfo.cs
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\obj\Release\netcoreapp2.1\ProjectForAnonymousMethods.dll
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForAnonymousMethods\obj\Release\netcoreapp2.1\ProjectForAnonymousMethods.pdb

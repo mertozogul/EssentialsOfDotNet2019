@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStructures\bin\Release\ProjectForStructures.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStructures\bin\Release\ProjectForStructures.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStructures\bin\Release\ProjectForStructures.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStructures\obj\Release\ProjectForStructures.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStructures\obj\Release\ProjectForStructures.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStructures\obj\Release\ProjectForStructures.pdb

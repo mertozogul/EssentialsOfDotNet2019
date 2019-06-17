@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStaticTypes\bin\Debug\ProjectForStaticTypes.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStaticTypes\bin\Debug\ProjectForStaticTypes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStaticTypes\bin\Debug\ProjectForStaticTypes.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStaticTypes\obj\Debug\ProjectForStaticTypes.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStaticTypes\obj\Debug\ProjectForStaticTypes.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForStaticTypes\obj\Debug\ProjectForStaticTypes.pdb

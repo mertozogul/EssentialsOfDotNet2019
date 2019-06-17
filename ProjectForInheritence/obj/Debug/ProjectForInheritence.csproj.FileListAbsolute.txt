@@ -1,0 +1,6 @@
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInheritence\bin\Debug\ProjectForInheritence.exe.config
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInheritence\bin\Debug\ProjectForInheritence.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInheritence\bin\Debug\ProjectForInheritence.pdb
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInheritence\obj\Debug\ProjectForInheritence.csproj.CoreCompileInputs.cache
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInheritence\obj\Debug\ProjectForInheritence.exe
+C:\Users\merti\Source\Repos\TutorialsPointProjectOOP\ProjectForInheritence\obj\Debug\ProjectForInheritence.pdb
