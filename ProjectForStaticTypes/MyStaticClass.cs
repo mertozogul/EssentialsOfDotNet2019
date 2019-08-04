@@ -45,6 +45,13 @@ namespace ProjectForStaticTypes
     public class NonStaticClass
     {
         /*
+            we can declare  static constructor  in NonStatic Class         
+        */
+        static NonStaticClass()
+        {
+
+        }
+        /*
             1--> We can declare static members in both static class and non-static class 
         */
         /*Static Members*/

@@ -16,5 +16,12 @@ namespace ProjectForPolymorphism
         {
             return 456546;
         }
+
+
+        //we must meke method definition for virtual methods
+        //public virtual int testrt();
+
+        //we dont't have to override virtual methods because it has method definition. 
+        //we have to override abstract methods because it has not method definiyion in base class. 
     }
 }

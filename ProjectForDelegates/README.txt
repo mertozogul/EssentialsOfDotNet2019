@@ -12,7 +12,7 @@ of the delegate.
 
 For example, consider a delegate - 
 
-public delegate in MyDelegate(string s);
+public delegate int MyDelegate(string s);
 
 The preceding delegate can be used to reference any method that has a single string parameter and returns an int type variable. 
 
